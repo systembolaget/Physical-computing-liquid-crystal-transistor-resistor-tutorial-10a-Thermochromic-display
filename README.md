@@ -1,0 +1,1 @@
+# Physical-computing-liquid-crystal-transistor-resistor-tutorial-10a-Thermochromic-display
