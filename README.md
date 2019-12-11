@@ -1,6 +1,6 @@
 # Physical computing liquid crystal transistor resistor tutorial - Thermochromic-display
 
-A somewhat magic calm technology display - heating thermochromic film with a resistor-heater, controlled by a linear potentiometer and N-channel MOSFET
+A calm technology display. How to turn thermochromic film into a display with an N-channel MOSFET driven resistor-heater
 
 ### Result
 
