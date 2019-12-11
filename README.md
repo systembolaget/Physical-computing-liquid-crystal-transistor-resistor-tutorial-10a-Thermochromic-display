@@ -1,6 +1,6 @@
 # Physical computing liquid crystal transistor resistor tutorial - Thermochromic display
 
-A calm technology display. How to turn thermochromic film into a display with an N-channel MOSFET driven resistor-heater
+A calm technology display. How to use thermochromic film with an N-channel MOSFET driven Arduino based resistor-heater
 
 ### Result
 
