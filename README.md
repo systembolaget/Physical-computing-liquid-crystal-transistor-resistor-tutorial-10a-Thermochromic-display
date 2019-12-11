@@ -1,4 +1,4 @@
-# Physical computing liquid crystal transistor resistor tutorial - Thermochromic-display
+# Physical computing liquid crystal transistor resistor tutorial - Thermochromic display
 
 A calm technology display. How to turn thermochromic film into a display with an N-channel MOSFET driven resistor-heater
 
