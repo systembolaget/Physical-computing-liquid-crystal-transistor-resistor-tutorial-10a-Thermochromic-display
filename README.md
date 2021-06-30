@@ -2,9 +2,11 @@
 
 A calm technology display. How to use thermochromic film with an N-channel MOSFET driven Arduino based resistor-heater
 
-### Result
+### Setup
 
-![](Assets/10a%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/10a%20result.jpg)](https://www.youtube.com/watch?v=mBdJC8M6x5E)
 
 ### Schematic
 
